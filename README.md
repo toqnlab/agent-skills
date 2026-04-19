@@ -39,7 +39,7 @@ A dev-only WYSIWYG editor for placing hand-drawn arrows and handwritten labels o
 
 ## Credits
 
-The 21 hand-drawn arrow SVGs bundled with the `arrow-editor` skill come from [Handy Arrows](https://handyarrows.com/) by Stefan Bohacek — a free, permissively-licensed collection of hand-drawn arrow illustrations. If you want more arrow styles than the 21 included here, grab additional SVGs from the Handy Arrows site and drop them into `public/handy-arrows/` in your project.
+The 21 hand-drawn arrow SVGs bundled with the `arrow-editor` skill come from [Handy Arrows](https://handyarrows.com/) by [Eren Arica](https://x.com/imeronn) — a CC-BY 4.0 collection of hand-drawn arrow illustrations. If you want more arrow styles than the 21 included here, grab additional SVGs from the Handy Arrows site and drop them into `public/handy-arrows/` in your project.
 
 ## License
 
