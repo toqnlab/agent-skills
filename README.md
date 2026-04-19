@@ -2,6 +2,8 @@
 
 ![arrow-editor demo](./docs/demo.gif)
 
+The **arrow-editor** skill turns your landing page into a visual annotation tool. Toggle the editor, click-to-pick any element on the page, drop hand-drawn arrows and handwritten labels right next to it, then hit **Copy JSON**. Paste the output back to your coding agent and it converts every annotation into real React components embedded in your source — each one anchored to the element you picked, so the labels and arrows follow their targets through layout changes instead of floating at hardcoded pixel coordinates.
+
 Agent skills published by **toqnlab** for the [skills.sh](https://skills.sh) ecosystem.
 
 ## Install
