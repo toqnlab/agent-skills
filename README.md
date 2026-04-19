@@ -33,6 +33,10 @@ A dev-only WYSIWYG editor for placing hand-drawn arrows and handwritten labels o
 
 **Compatibility:** Works with any agent that supports skills (Claude Code, Codex, Cursor). Uses only file-read/write operations — no hooks, no agent-specific runtime features.
 
+## Credits
+
+The 21 hand-drawn arrow SVGs bundled with the `arrow-editor` skill come from [Handy Arrows](https://handyarrows.com/) by Stefan Bohacek — a free, permissively-licensed collection of hand-drawn arrow illustrations. If you want more arrow styles than the 21 included here, grab additional SVGs from the Handy Arrows site and drop them into `public/handy-arrows/` in your project.
+
 ## License
 
 [MIT](./LICENSE) — use, fork, remix freely.
