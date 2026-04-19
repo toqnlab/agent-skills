@@ -1,5 +1,7 @@
 # agent-skills
 
+![arrow-editor demo](./docs/demo.gif)
+
 Agent skills published by **toqnlab** for the [skills.sh](https://skills.sh) ecosystem.
 
 ## Install
